@@ -1,0 +1,16 @@
+cd mariafilipigh
+  261  cd ..
+  262  ~ mariafilipigh
+  263  pws
+  264  pwd
+  265  git config --global user.name matefi
+  266  git config --global user.email mtfilipigh@gmail.com
+  267  git clone https://github.com/matefi/Filipigh-Teresa.git
+  268  cd Filipigh-Teresa
+  269   git clone https://github.com/matefi/Filipigh-Teresa.git
+  270  ssh -T git@github.com
+  271  pwd
+  272  cd Filipigh-Teresa
+  273  wc -w El_arriero.txt
+  274   grep -o -i vaquitas El_arriero.txt | wc -l
+  275  touch 50-comandos.log
